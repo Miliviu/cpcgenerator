@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cpcgenerator/static/css/main.0bc92c28.css",
+    "main.js": "/cpcgenerator/static/js/main.87940a6c.js",
+    "static/js/453.332c5813.chunk.js": "/cpcgenerator/static/js/453.332c5813.chunk.js",
+    "index.html": "/cpcgenerator/index.html",
+    "main.0bc92c28.css.map": "/cpcgenerator/static/css/main.0bc92c28.css.map",
+    "main.87940a6c.js.map": "/cpcgenerator/static/js/main.87940a6c.js.map",
+    "453.332c5813.chunk.js.map": "/cpcgenerator/static/js/453.332c5813.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bc92c28.css",
+    "static/js/main.87940a6c.js"
+  ]
+}
